@@ -52,4 +52,33 @@ For help, discussion about best practices, or any other conversation that would 
 For casual chit-chat with others using the framework:
 
 [Join the Tailwind CSS Discord Server](https://discord.gg/7NF8GNe)
+    
+    
+    
+## Authors
 
+👤 **Rina Tokhi**
+
+- GitHub: [@Rina-Tokhi](https://github.com/Rina-Tokhi)
+
+👤 **Noor Ali**
+
+- GitHub: [@Ali-noor](https://github.com/Ali-noor)
+    
+👤 **Roya Rahimi**
+
+- GitHub: [@Roya-Rahimi](https://github.com/Roya-Rahimi)
+    
+👤 **Maliha Shahi**
+
+- GitHub: [@MalihaShahi](https://github.com/MalihaShahi)
+ 
+ 👤 **Qadir Sultani**
+
+- GitHub: [@GHAZAN-FAR](https://github.com/GHAZAN-FAR)
+    
+👤 **Muzhda Noorzad**
+
+- GitHub: [@MuzhdaN](https://github.com/MuzhdaN)
+    
+    
