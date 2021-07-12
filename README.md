@@ -7,18 +7,26 @@
 
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
-## Getting Started
+## Getting Started with Templet 
 
 Choose one of the following options to get started with Landing Page Template  :
 * [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
 * Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
 * Fork the repo
+<ht>
+    
+## Getting Started with our STEM reop :
+
+1. Clone the project 
+  `$ git clone https://github.com/Rina-Tokhi/STEM.git`
+2. Then open index.html in your browser
+
 ## Built With
 
 - HTML
 - Tailwind Css
 - JavaScript
--
+
 
 <hr>
 <p>
