@@ -1,12 +1,18 @@
 # STEM
-This is a simple web page . using 
-[Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
+> This is a simple web page . using 
+> [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
+>
+> [Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created > by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
+## Getting Started
 
+Choose one of the following options to get started with Landing Page Template  :
+* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
+* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
+* Fork the repo
 ## Built With
 
 - HTML
